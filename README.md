@@ -5,7 +5,7 @@
 start with: python3 ./leo.py
 ```
 # Prerequisite:
-install skyfiled library (https://rhodesmill.org/skyfield/)
+Install skyfiled library (https://rhodesmill.org/skyfield/)
 ```
 pip3 install skyfield
 ```
