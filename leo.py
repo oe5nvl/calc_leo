@@ -1,4 +1,3 @@
-
 import calc_obj
 leos = calc_obj.Leos(__import__('config_dss_c'))
 
