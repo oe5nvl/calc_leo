@@ -19,8 +19,7 @@ spacecrafts.json - list of objects to calculate
 ```
 calc_obj.py - class to calculate the leos
 
-config_dss_c.py - config file for paths and URLs
-insert oberver location here
+config_dss_c.py - config file for paths and URLs - insert oberver location here
 
 ```
 ```
