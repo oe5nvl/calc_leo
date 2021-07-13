@@ -1,0 +1,52 @@
+{
+  "leos": [
+    {
+      "disp": "1",
+      "nr": "Leo",
+      "name": "ISS (ZARYA)",
+      "dispname": "isssn",
+      "datafile": "stations.txt",
+      "qrg": "145.825"
+    },
+    {
+      "disp": "1",
+      "nr": "Leo",
+      "name": "OSCAR 7 (AO-7)",
+      "dispname": "AO7",
+      "datafile": "amateur.txt",
+      "qrg": "145.95"
+    },
+    {
+      "disp": "1",
+      "nr": "Leo",
+      "name": "SAUDISAT 1C (SO-50)",
+      "dispname": "SO-50",
+      "datafile": "amateur.txt",
+      "qrg": "144.8"
+    },
+    {
+      "disp": "1",
+      "nr": "Leo",
+      "name": "NOAA 15 [B]",
+      "dispname": "NOAA 15",
+      "datafile": "noaa.txt",
+      "qrg": "137.8"
+    },
+    {
+      "disp": "1",
+      "nr": "Leo",
+      "name": "NOAA 18 [B]",
+      "dispname": "NOAA 18",
+      "datafile": "noaa.txt",
+      "qrg": "137.8"
+    },
+    {
+      "disp": "1",
+      "nr": "Leo",
+      "name": "NOAA 19 [+]",
+      "dispname": "NOAA 19",
+      "datafile": "noaa.txt",
+      "qrg": "139.8"
+    }
+  ]
+}
