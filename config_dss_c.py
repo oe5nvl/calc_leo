@@ -21,4 +21,3 @@ skyfield_loader_path = "./"
 celestrack_url       = "http://celestrak.com/NORAD/elements/"
 
 
-
