@@ -1,17 +1,19 @@
 # calc_leo
 
-Calculates the position of Low Earth Orbit sattelittes for a given observer location.
-'''
+#Calculates the position of Low Earth Orbit sattelittes for a given observer location.
+```
 start with:
 python3./leo.py
-'''
-Prerequisite:
+```
+#Prerequisite:
+```
 install skyfiled library (https://rhodesmill.org/skyfield/)
-
+```
+```
 pip install skyfield
-
-files:
-
+```
+#Files:
+```
 leo.py - main program
 spacecrafts.json - list of objects to calculate
 
@@ -23,5 +25,5 @@ Files loaded and updated by Skyfield
 stations.txt
 amateur.txt
 noaa.txt
-
-Translated with www.DeepL.com/Translator (free version)
+```
+OE5NVL,OE5RNL
