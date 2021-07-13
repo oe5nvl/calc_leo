@@ -102,3 +102,4 @@ class Leos(space_obj):
     self.od["rx_qrg"]  = self.od["sat_qrg"] + self.od["doppler"]       # rx qrg after doppler correction
     return(self.od)
 
+
