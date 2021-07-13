@@ -26,4 +26,4 @@ stations.txt
 amateur.txt
 noaa.txt
 ```
-OE5NVL,OE5RNL
+OE5NVL, OE5RNL
