@@ -5,9 +5,7 @@
 start with: python3 ./leo.py
 ```
 # Prerequisite:
-```
 install skyfiled library (https://rhodesmill.org/skyfield/)
-```
 ```
 pip3 install skyfield
 ```
@@ -23,7 +21,7 @@ config_dss_c.py - config file for paths and URLs - insert oberver location here
 
 ```
 ```
-Files loaded and updated by Skyfield:
+TLE files are automatically downloaded by Skyfield:
 stations.txt
 amateur.txt
 noaa.txt
