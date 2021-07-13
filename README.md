@@ -2,8 +2,7 @@
 
 # Calculates the position of Low Earth Orbit sattelittes for a given observer location.
 ```
-start with:
-python3./leo.py
+start with: python3./leo.py
 ```
 # Prerequisite:
 ```
