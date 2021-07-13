@@ -13,12 +13,10 @@ pip3 install skyfield
 ```
 leo.py - main program
 spacecrafts.json - list of objects to calculate
+config_dss_c.py - config file for paths and URLs - insert oberver location here
 ```
 ```
 calc_obj.py - class to calculate the leos
-
-config_dss_c.py - config file for paths and URLs - insert oberver location here
-
 ```
 ```
 TLE files are automatically downloaded by Skyfield:
