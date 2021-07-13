@@ -1,6 +1,6 @@
 # calc_leo
 
-# Calculates the position of Low Earth Orbit sattelittes for a given observer location.
+Calculates the position of Low Earth Orbit sattelittes for a given observer location.
 
 # Install
 git clone https://github.com/oe5nvl/calc_leo.git
