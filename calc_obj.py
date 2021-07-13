@@ -92,11 +92,11 @@ class Leos(space_obj):
     self.od["dispname"]    = leo_obj["dispname"]
     self.od["az"]      = az.degrees                # azimut
     self.od["el"]      = alt.degrees               # elevation
-    self.od["delot"]   = range_speed               #)              + " [km/s]"   # delot
-    self.od["dist_km"] = distance.km               #)              + " [km]"     # distance in mkm       
-    self.od["dist_au"] = distance.au               #)              + " [AU]"     # distance in AU
-    self.od["l_min"]   = distance.km / 1.799e+7    # )  + " [l_min]"  # distance in light Minutes
-    self.od["l_y"]     = distance.km / 9.461e+12   #)  + " [LY]"     # distance in distance in light Years 
+    self.od["delot"]   = range_speed               # [km/s]   # delot
+    self.od["dist_km"] = distance.km               # [km]     # distance in mkm       
+    self.od["dist_au"] = distance.au               # [AU]     # distance in AU
+    self.od["l_min"]   = distance.km / 1.799e+7    # [l_min]  # distance in light Minutes
+    self.od["l_y"]     = distance.km / 9.461e+12   # [LY]     # distance in distance in light Years 
     self.od["ts"]      = "0" #t                                                         # observation time 
     self.od["doppler"] = (1 + range_speed * 1e3 / 299792458)  * self.od["sat_qrg"] - self.od["sat_qrg"]     # dopper shift
     self.od["rx_qrg"]  = self.od["sat_qrg"] + self.od["doppler"]       # rx qrg after doppler correction
