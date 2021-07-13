@@ -1,3 +1,14 @@
+
+# Copyright (C)
+# 2021-01-30
+# Reinhold Autengruber, OE5RNL
+# Manfred Autengruber,  OE5NVL
+#
+
+
+
+
+
 import json
 import math
 import pprint
