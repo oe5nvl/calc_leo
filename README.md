@@ -9,7 +9,7 @@ start with: python3 ./leo.py
 install skyfiled library (https://rhodesmill.org/skyfield/)
 ```
 ```
-pip install skyfield
+pip3 install skyfield
 ```
 # Files:
 ```
