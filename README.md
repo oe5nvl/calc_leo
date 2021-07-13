@@ -2,7 +2,10 @@
 
 # Calculates the position of Low Earth Orbit sattelittes for a given observer location.
 
-Start calculation with: 
+# Install
+git clone https://github.com/oe5nvl/calc_leo.git
+
+# Start calculation with: 
 ```
 python3 ./leo.py
 ```
