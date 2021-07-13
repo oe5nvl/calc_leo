@@ -1,9 +1,10 @@
 # calc_leo
 
 Calculates the position of Low Earth Orbit sattelittes for a given observer location.
-
-start with python3./leo.py
-
+'''
+start with:
+python3./leo.py
+'''
 Prerequisite:
 install skyfiled library (https://rhodesmill.org/skyfield/)
 
