@@ -5,6 +5,8 @@ Calculates the position of Low Earth Orbit sattelittes for a given observer loca
 # Install
 git clone https://github.com/oe5nvl/calc_leo.git
 
+Do not forget to update the TLE-data. Simply delete stations.txt and restart the program
+
 # Start calculation with: 
 ```
 python3 ./leo.py
